@@ -1,0 +1,132 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TrialGuard Support | Eluma Technologies</title>
+  <style>
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif;
+      background: #101827;
+      color: #f4f7fb;
+      line-height: 1.7;
+    }
+
+    header {
+      text-align: center;
+      padding: 75px 20px;
+      background: #172438;
+      border-bottom: 1px solid #29394c;
+    }
+
+    .logo {
+      color: #54D6A0;
+      font-weight: bold;
+      letter-spacing: 4px;
+      font-size: 18px;
+    }
+
+    h1 { font-size: 38px; margin: 12px 0; }
+
+    header p { color: #bdc8d6; }
+
+    main {
+      max-width: 760px;
+      margin: 45px auto;
+      padding: 0 22px;
+    }
+
+    h2 { color: #54D6A0; margin-top: 35px; }
+
+    .support-card {
+      background: #19283b;
+      border: 1px solid #304157;
+      border-radius: 14px;
+      padding: 28px;
+      margin-top: 25px;
+    }
+
+    a {
+      color: #54D6A0;
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    footer {
+      text-align: center;
+      padding: 35px 15px;
+      color: #8291a3;
+      border-top: 1px solid #29394c;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <div class="logo">TRIALGUARD</div>
+    <h1>We're Here to Help</h1>
+    <p>Welcome to TrialGuard Support.</p>
+  </header>
+
+  <main>
+    <h2>How Can We Help?</h2>
+    <p>
+      Thank you for using TrialGuard. Our goal is to help
+      you manage subscriptions, monitor renewal dates,
+      and stay ahead of recurring payments.
+    </p>
+
+    <div class="support-card">
+      <h2>Contact Support</h2>
+      <p>
+        Have a question, need assistance, or experiencing
+        a problem with TrialGuard?
+      </p>
+      <p>
+        Email us at:
+        <a href="mailto:Elumatechnologies@gmail.com">
+          Elumatechnologies@gmail.com
+        </a>
+      </p>
+    </div>
+
+    <h2>Common Questions</h2>
+
+    <h3>How do I add a subscription?</h3>
+    <p>
+      Open TrialGuard and use the Add Trial option to
+      enter your subscription details.
+    </p>
+
+    <h3>How do renewal reminders work?</h3>
+    <p>
+      TrialGuard is designed to provide reminders
+      7, 3, and 1 day before scheduled renewal dates.
+    </p>
+
+    <h3>How can I update my subscription information?</h3>
+    <p>
+      Open the subscription you want to change and
+      select the edit option.
+    </p>
+
+    <h2>Privacy</h2>
+    <p>
+      We respect your privacy. Please review our
+      <a href="https://thtboy-oniel.github.io/trialguard-privacy/">
+        Privacy Policy
+      </a>
+      to learn how information is handled.
+    </p>
+  </main>
+
+  <footer>
+    <p>© 2026 Eluma Technologies</p>
+    <p>TrialGuard — Take control of your subscriptions.</p>
+  </footer>
+</body>
+</html>
